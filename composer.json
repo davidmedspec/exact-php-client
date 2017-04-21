@@ -1,5 +1,5 @@
 {
-    "name": "davidmedspec/exact-php-client",
+    "name": "mediaspectrum/exact-php-client",
     "type": "library",
     "description": "A PHP Client for the Exact API",
     "keywords": [
